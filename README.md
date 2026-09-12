@@ -1,4 +1,4 @@
-# translator
+# translator\n\n**Phone se test karna hai? → [Open in Colab](https://colab.research.google.com/github/warisrauf34/SHAZI/blob/claude/folder-question-x2uwgy/translator.ipynb)** (kuch install nahi karna, sirf Groq key + YouTube URL).\n
 
 End-to-end pipeline to translate a YouTube video's audio into another language:
 
